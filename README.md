@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @maham-kayani
+- I am an international student in France
 - 👀 I’m interested in Data engineer,data analyst,and AI engineer role
 - 🌱 I’m currently learning networking and IOT
 - 💞️ I’m looking to collaborate on work related to PHD positions or jobs in (AI or-security)
