@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maham Fatima kayani</h1>
-<h3 align="center">Master Student of Computer Network and IOT</h3>
+<h3 align="center">PHD student, working in real-world data anomaly detection</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maham-kayani&label=Profile%20views&color=0e75b6&style=flat" alt="maham-kayani" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Dockers and cloud**
+- 🌱 I’m currently learning **Machine learning, Big data analysis, anomaly detection methods**
 
 - 📫 How to reach me **mahamfatimakayani@gmail.com**
 
